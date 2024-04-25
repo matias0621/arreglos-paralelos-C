@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714082042 source:c:\users\marin\onedrive\documentos\nivelatorio\arreglos-paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
